@@ -1,0 +1,28 @@
+Security Domain,Tool Category,Early-Stage (40-75 employees),Growth-Stage (75-150 employees),Scale-Stage (150-200 employees),Key Features,Pricing Model,Integration Complexity
+Identity & Access Management,Identity Provider,Google Workspace / Microsoft 365,Okta / Azure AD Premium,Okta / Ping Identity / ForgeRock,"SSO, MFA, User Provisioning, Directory Integration",Per User/Month,Low-Medium
+Identity & Access Management,Privileged Access,Built-in admin controls,CyberArk Endpoint Privilege Manager,CyberArk / BeyondTrust / Thycotic,"PAM, Session Recording, Just-in-Time Access",Per User/Month,Medium-High
+Endpoint Protection,Antivirus/EDR,Microsoft Defender / Bitdefender,CrowdStrike Falcon Go,CrowdStrike Falcon Enterprise / SentinelOne,"Next-gen AV, EDR, Threat Hunting, Response",Per Endpoint/Month,Low-Medium
+Endpoint Protection,Mobile Device Management,Microsoft Intune / Google Workspace,Microsoft Intune / VMware Workspace ONE,Microsoft Intune / VMware / MobileIron,"Device Management, App Control, Compliance",Per Device/Month,Medium
+Email Security,Email Protection,Microsoft Defender for Office 365,Proofpoint Essentials,Proofpoint Enterprise / Mimecast,"Anti-phishing, Safe Attachments, URL Protection",Per User/Month,Low
+Email Security,Email Encryption,Built-in encryption,Virtru / Zix,Proofpoint / Mimecast / Virtru,"Email Encryption, DLP, Policy Management",Per User/Month,Medium
+Network Security,Firewall,Cloud-native firewalls,Palo Alto Networks VM-Series,Palo Alto Networks / Fortinet / Check Point,"NGFW, IPS, Application Control, SSL Inspection",Per Mbps/Month,Medium-High
+Network Security,Network Monitoring,CloudFlare Analytics,SolarWinds / PRTG,Splunk / ExtraHop / Darktrace,"Traffic Analysis, Anomaly Detection, Reporting",Per Device/Month,Medium-High
+Vulnerability Management,Vulnerability Scanning,Qualys VMDR Lite,Rapid7 InsightVM,Tenable.io / Qualys VMDR Enterprise,"Asset Discovery, Vuln Scanning, Risk Prioritization",Per Asset/Month,Medium
+Vulnerability Management,Patch Management,Microsoft WSUS / Automox,Microsoft SCCM / Automox,Microsoft SCCM / Red Hat Satellite / Tanium,"Automated Patching, Testing, Rollback",Per Endpoint/Month,Medium-High
+SIEM & Monitoring,SIEM Platform,Microsoft Sentinel,Splunk Cloud / Sumo Logic,Splunk Enterprise / IBM QRadar / LogRhythm,"Log Management, Correlation, Alerting, Dashboards",Per GB/Month,High
+SIEM & Monitoring,Log Management,Native cloud logging,Splunk Cloud / Datadog,Splunk / Elastic Stack / Sumo Logic,"Centralized Logging, Search, Analytics, Retention",Per GB/Month,Medium-High
+Data Protection,Backup & Recovery,Cloud-native backup,Veeam Backup for Microsoft 365,Veeam Backup & Replication / Commvault,"Automated Backup, Point-in-time Recovery, Monitoring",Per Workload/Month,Medium
+Data Protection,Data Loss Prevention,Microsoft Purview,Microsoft Purview / Symantec DLP,Forcepoint DLP / Symantec DLP / Digital Guardian,"Content Discovery, Policy Enforcement, Incident Response",Per User/Month,High
+Application Security,SAST Tools,SonarQube Community,SonarQube Developer,Veracode / Checkmarx / Fortify,"Static Code Analysis, Vulnerability Detection, Reporting",Per Developer/Month,Medium
+Application Security,DAST Tools,OWASP ZAP,Rapid7 InsightAppSec,Veracode / WhiteHat Security / Netsparker,"Dynamic Testing, Web App Scanning, API Testing",Per Application/Month,Medium
+Cloud Security,CSPM Tools,Native cloud security,Prisma Cloud Compute,Prisma Cloud Enterprise / Aqua Security / Lacework,"Configuration Assessment, Compliance, Remediation",Per Workload/Month,Medium
+Cloud Security,Container Security,Docker Security Scanning,Aqua Security / Twistlock,Aqua Security / Palo Alto Prisma / Sysdig,"Image Scanning, Runtime Protection, Compliance",Per Container/Month,Medium-High
+Incident Response,SOAR Platform,Microsoft Sentinel (basic),Phantom Community / Demisto,Phantom / Demisto / IBM Resilient,"Workflow Automation, Case Management, Orchestration",Per User/Month,High
+Incident Response,Forensics Tools,Built-in OS tools,SANS SIFT / Volatility,EnCase / FTK / X-Ways Forensics,"Disk Imaging, Memory Analysis, Timeline Analysis",One-time License,High
+Security Awareness,Training Platform,KnowBe4 / Proofpoint,KnowBe4 Security Awareness,KnowBe4 Enterprise / Proofpoint Security Awareness,"Phishing Simulation, Training Content, Reporting",Per User/Month,Low
+Security Awareness,Phishing Simulation,Built-in email security,Gophish / KnowBe4,KnowBe4 / Proofpoint / Cofense,"Campaign Management, Templates, Analytics",Per User/Month,Low-Medium
+Third-Party Risk,Vendor Assessment,Manual questionnaires,SecurityScorecard / BitSight,SecurityScorecard / BitSight / RiskRecon,"Continuous Monitoring, Risk Scoring, Reporting",Per Vendor/Month,Medium
+Third-Party Risk,Contract Management,Manual contract review,ContractWorks / Agiloft,ServiceNow GRC / MetricStream / Resolver,"Contract Lifecycle, Risk Assessment, Compliance",Per Contract/Month,Medium-High
+Compliance & GRC,GRC Platform,Manual compliance tracking,ServiceNow GRC / MetricStream,ServiceNow GRC / RSA Archer / MetricStream,"Risk Assessment, Policy Management, Audit Support",Per User/Month,High
+Compliance & GRC,Policy Management,SharePoint / Google Drive,ServiceNow / Confluence,ServiceNow / Confluence / PolicyTech,"Policy Lifecycle, Approval Workflows, Training Tracking",Per User/Month,Medium
+
