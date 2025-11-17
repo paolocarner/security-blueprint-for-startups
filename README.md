@@ -22,10 +22,10 @@ The Tech Startup Security Blueprint provides a systematic approach to implementi
 ## 🚀 Quick Start
 
 ### For Security Leaders
-1. Review the [Complete Security Blueprint](docs/complete-security-blueprint.md)
-2. Conduct a [Security Maturity Assessment](templates/security-assessment-matrix.csv)
-3. Select your [Implementation Roadmap](docs/implementation-roadmaps.md) based on company size
-4. Use the [Implementation Checklist](templates/implementation-checklist.csv) to track progress
+1. Review the [Complete Security Blueprint](docs/complete_security_blueprint.md)
+2. Conduct a [Security Maturity Assessment](templates/security_assessment_matrix.csv)
+3. Select your [Implementation Roadmap](docs/implementation_roadmaps.md) based on company size
+4. Use the [Implementation Checklist](templates/implementation_checklist.csv) to track progress
 
 ### For Executives
 1. Read the [Executive Summary](docs/complete-security-blueprint.md#executive-summary)
