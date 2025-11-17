@@ -28,14 +28,14 @@ The Tech Startup Security Blueprint provides a systematic approach to implementi
 4. Use the [Implementation Checklist](templates/implementation_checklist.csv) to track progress
 
 ### For Executives
-1. Read the [Executive Summary](docs/complete-security-blueprint.md#executive-summary)
-2. Review the [Cost-Benefit Analysis](docs/complete-security-blueprint.md#cost-benefit-analysis-and-roi-considerations)
-3. Understand the [Business Impact](assets/cost-benefit-analysis.png) of security investments
+1. Read the [Executive Summary](docs/complete_security_blueprint.md#executive-summary)
+2. Review the [Cost-Benefit Analysis](docs/complete_security_blueprint.md#cost-benefit-analysis-and-roi-considerations)
+3. Understand the Business Impact of security investments
 
 ### For Technical Teams
-1. Explore [Tool Selection Matrices](templates/tool-selection-matrix.csv)
-2. Review [Implementation Templates](templates/)
-3. Follow domain-specific guidance in the [Detailed Recommendations](docs/detailed-recommendations.md)
+1. Explore Tool Selection Matrices
+2. Review Implementation Templates
+3. Follow domain-specific guidance in the Detailed Recommendations
 
 ## 📋 Framework Components
 
